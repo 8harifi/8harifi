@@ -8,11 +8,11 @@
 <br />
 hey there
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/8harifi/8harifi/main/assets/code.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/8harifi/8harifi/main/assets/coding.gif" width="500" height="320" />
 
 
 - 🤓 Just a student
-- 👨🏼‍💻 Familiar with python
+- 👨 ‍💻 Familiar with python
 - 😎 Learning ruby and bash at the moment
 - 💪 kind of professional in Web Scraping
 - 🤖 wannabe Web and AI Developer
