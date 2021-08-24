@@ -8,7 +8,7 @@
 <br />
 hey there
 
-  <img align="right" alt="GIF" src="https://github.com/8harifi/8harifi/tree/main/assets/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/8harifi/8harifi/main/assets/code.gif" width="500" height="320" />
 
 
 - 🤓 Just a student
