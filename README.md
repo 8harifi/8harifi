@@ -14,7 +14,7 @@ hey there
 - 🤓 Just a student
 - 👨 ‍💻 Familiar with python
 - 😎 Learning ruby and bash at the moment
-- 💪 kind of professional in Web Scraping
+- 💪 kinda professional in Web Scraping
 - 🤖 wannabe Web and AI Developer
 - 😁 Any project that i can help you with?? [I'll be glad to help](mailto:8harifi@gmail.com)
 
