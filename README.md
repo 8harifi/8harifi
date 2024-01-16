@@ -11,9 +11,9 @@ hey there
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/8harifi/8harifi/main/assets/coding.gif" width="500" height="320" />
 
 
-- 🤓 Just a student
-- 👨 ‍💻 Familiar with python
-- 😎 Freelancer
+- 🤓 Just a student (currently freelancing)
+- ‍💻 newbie (not really im being humble :D)
+- 😎 python (4life), nodejs
 - 💪 Web Scraping, telegram bots, backend dev, ...
 - 🤖 wannabe Web and AI Developer (jk lol)
 - 😁 Any project that i can help you with?? [I'll be glad to help](mailto:8harifi@gmail.com)
