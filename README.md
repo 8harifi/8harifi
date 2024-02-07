@@ -35,7 +35,7 @@ hey there
 📈 my github stats
 
 <a href="https://git.io/streak-stats">
-  <img align="center" src="https://streak-stats.demolab.com?user=8harifi&theme=dark&border_radius=15&mode=weekly&card_width=300" alt="GitHub Streak" />
+  <img align="center" src="https://streak-stats.demolab.com?user=8harifi&theme=dark&border_radius=15&mode=weekly&card_width=420" alt="GitHub Streak" />
 </a>
 
 <a href="https://github.com/8harifi/8harifi">
