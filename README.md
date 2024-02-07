@@ -34,7 +34,9 @@ hey there
 
 📈 my github stats
 
-<a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=8harifi&theme=dark&border_radius=15&mode=weekly&card_width=300" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats">
+  <img align="center" src="https://streak-stats.demolab.com?user=8harifi&theme=dark&border_radius=15&mode=weekly&card_width=300" alt="GitHub Streak" />
+</a>
 
 <a href="https://github.com/8harifi/8harifi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8harifi&layout=compact&card_width=250&hide_border=true&title_color=58a6ff&bg_color=0d1117&text_color=bdd1cd" />
