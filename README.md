@@ -4,6 +4,7 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=8harifi.8harifi)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <br />
 hey there
