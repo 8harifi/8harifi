@@ -12,10 +12,10 @@ hey there
 
 
 - 🤓 Just a student (currently freelancing)
-- ‍💻 newbie (not really im being humble :D)
+- ‍💻 newbie (naah not really im just being humble :D)
 - 😎 python (4life), nodejs
 - 💪 Web Scraping, telegram bots, backend dev, ...
-- 🤖 wannabe Web and AI Developer (jk lol)
+- 🤖 wannabe Web and AI Developer (jk lol im not an idiot)
 - 😁 Any project that i can help you with?? [I'll be glad to help](mailto:8harifi@gmail.com)
 
 
