@@ -1,6 +1,6 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.com/users/829233436657057802">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/8harifi/8harifi/main/assets/discord.svg" />
+  <img align="left" alt="8harifi's Discord" width="22px" src="https://raw.githubusercontent.com/8harifi/8harifi/main/assets/discord.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=8harifi.8harifi)
@@ -8,7 +8,7 @@
 <br />
 hey there
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/8harifi/8harifi/main/assets/coding.gif" width="400" height="280" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/8harifi/8harifi/main/assets/coding.gif" width="400" height="280" style="border-radius: 10px; padding-left: 0px;"/>
 
 
 - 🤓 Just a student (currently freelancing)
