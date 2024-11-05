@@ -1,7 +1,5 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.com/users/829233436657057802">
-  <img align="left" alt="8harifi's Discord" width="22px" src="https://raw.githubusercontent.com/8harifi/8harifi/main/assets/discord.svg" />
-</a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=8harifi.8harifi)
 
