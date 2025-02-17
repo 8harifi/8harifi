@@ -1,5 +1,7 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+<a href="https://discord.com/users/829233436657057802">
+  <img align="left" alt="8harifi's Discord" width="22px" src="https://raw.githubusercontent.com/8harifi/8harifi/main/assets/discord.svg" />
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=8harifi.8harifi)
 
@@ -32,12 +34,8 @@ hey there
 
 📈 my github stats
 
-<a href="https://git.io/streak-stats">
-  <img align="center" src="https://streak-stats.demolab.com?user=8harifi&theme=dark&border_radius=15&mode=weekly&card_width=420" alt="GitHub Streak" />
-</a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=8harifi&theme=dark&border_radius=7&mode=weekly" alt="GitHub Streak" /></a>
 
 <a href="https://github.com/8harifi/8harifi">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=8harifi](https://streak-stats.demolab.com/?user=8harifi&layout=compact&card_width=250&hide_border=true&title_color=58a6ff&bg_color=0d1117&text_color=bdd1cd" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8harifi&layout=compact&card_width=250&hide_border=true&title_color=58a6ff&bg_color=0d1117&text_color=bdd1cd" />
 </a>
-
-
