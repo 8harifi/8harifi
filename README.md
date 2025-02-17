@@ -37,7 +37,7 @@ hey there
 </a>
 
 <a href="https://github.com/8harifi/8harifi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8harifi&layout=compact&card_width=250&hide_border=true&title_color=58a6ff&bg_color=0d1117&text_color=bdd1cd" />
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=8harifi](https://streak-stats.demolab.com/?user=8harifi&layout=compact&card_width=250&hide_border=true&title_color=58a6ff&bg_color=0d1117&text_color=bdd1cd" />
 </a>
 
 
