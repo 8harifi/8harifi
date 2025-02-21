@@ -25,8 +25,8 @@
 
 
 <p align="center">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=8harifi&show_icons=true&locale=en&layout=compact&theme=noctis_minimus" alt="8harifi" />
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=8harifi&show_icons=true&locale=en&theme=noctis_minimus" alt="8harifi" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=8harifi&show_icons=true&locale=en&layout=compact&theme=noctis_minimus" alt="8harifi" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=8harifi&show_icons=true&locale=en&theme=noctis_minimus" alt="8harifi" />
 </p>
 
 <p align="center">
