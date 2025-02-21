@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="assets/banner.png" alt="Banner" width="100%" style="border-radius: 10px; filter: drop-shadow(5px 5px 10px gray);" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=8harifi&label=Profile%20views&color=0e75b6&style=flat" alt="8harifi" /> </p>
 
