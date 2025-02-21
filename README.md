@@ -2,7 +2,7 @@
   <img src="assets/banner.png" alt="Banner" width="100%" style="border-radius: 10px; filter: drop-shadow(5px 5px 10px gray);" />
 </p>
 
-<img align="right" width=400 src="https://github-readme-stats.vercel.app/api/pin/?username=8harifi&repo=spidey_sense&theme=noctis_minimus" />
+<img align="right" width=350 src="https://github-readme-stats.vercel.app/api/pin/?username=8harifi&repo=spidey_sense&theme=noctis_minimus" />
 
 - ‍💻 newbie (naah not really im just being humble :D)
 - 😎 python (4life), Go (is the GOat), nodejs (had no other choice)
