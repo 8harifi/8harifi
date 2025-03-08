@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://socialify.git.ci/8harifi/8harifi/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="Banner" width="100%" style="border-radius: 10px; filter: drop-shadow(5px 5px 10px gray);" />
+  <img src="https://socialify.git.ci/8harifi/8harifi/image?font=Source+Code+Pro&language=1&logo=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCcZdW37UcAA9DZz%3Fformat%3Dpng%26name%3Dsmall&name=1&owner=1&pattern=Brick+Wall&theme=Auto" alt="Banner" width="100%" style="border-radius: 10px; filter: drop-shadow(5px 5px 10px gray);" />
 </p>
 
 
