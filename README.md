@@ -2,7 +2,6 @@
   <img src="assets/banner.png" alt="Banner" width="100%" style="border-radius: 10px; filter: drop-shadow(5px 5px 10px gray);" />
 </p>
 
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/guilyx/guilyx/actions)
 
 <img align="right" width=350 src="https://github-readme-stats.vercel.app/api/pin/?username=8harifi&repo=spidey_sense&theme=noctis_minimus" />
 
