@@ -9,7 +9,6 @@
 - 😎 python (4life), Go (is the GOat), nodejs (had no other choice)
 - 💪 Web Scraping, Network Programming, telegram bots, backend dev, ...
 - 🔭 Currently working on [spidey sense (professional web scraping assistant tool)](https://github.com/8harifi/spidey_sense)
-- 🤖 wannabe Web and AI Developer (jk lol im not an idiot)
 - 😁 Any project that i can help you with?? [I'll be glad to help](mailto:8harifi@gmail.com)
 - ⚡ **Atleast I'm not fat**
 
